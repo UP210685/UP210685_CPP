@@ -1,4 +1,4 @@
-/* Unidad 1.
+/* Unidad 2.
 Autor: María Fernanda Aguilar González
 Fecha: 27/09/2022
 Objetivo: Definir la etapa de la persona
