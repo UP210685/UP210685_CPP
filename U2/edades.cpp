@@ -17,10 +17,10 @@ int main()
 {
     int e;
     printf("Cual es tu edad \n");
-printf("%d \n" , e);
+    scanf("%d" , &e);
     if (e >= 1 && e <= 150)
     {
-        if (e <= 30)
+        if (e>=1 && e <= 30)
         {
             printf("1era edad");
         }
@@ -39,6 +39,6 @@ printf("%d \n" , e);
     else{
         printf("Rango es invalido");
     }
-    getchar();
+   
     return 0;
 }
