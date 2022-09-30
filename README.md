@@ -58,7 +58,9 @@ int main()
 }
 
 ```  
-![No](Imagenes\9d38f810-03b7-41c7-b964-87a91054eb29.jfif "Yo")
+<img alt="Yop" src=Imagenes\9d38f810-03b7-41c7-b964-87a91054eb29.jfif width= '300'>
+</div> 
+
 <div align="center">
 <img alt="Yop" src="Imagenes\1acb369e-5a58-4c12-9b1f-194b6cdfe38b.jfif" width= '300'>
 </div>  
