@@ -37,6 +37,6 @@ int main()
         }
     }
     ranual = renta * 12;
-    printf("La renta anual es %d \n", ranual);
-    printf("El impuesto a pagar por mes es de %d \n", impuesto);
+    printf ("La renta anual es %d \n", ranual);
+    printf ("El impuesto a pagar por mes es de %d \n", impuesto);
 }
