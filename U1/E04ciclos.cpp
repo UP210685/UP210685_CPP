@@ -1,3 +1,8 @@
+/* Unidad 1:
+Autor: María Fernanda Aguilar González
+Fecha: 27/09/2022
+Objetivo: Manejo de If
+*/
 #include <iostream>
 using namespace std;
 

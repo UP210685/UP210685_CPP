@@ -1,6 +1,6 @@
 /* Unidad 2. TABLAS DE MULTIPLICAR
 Autor: María Fernanda Aguilar González
-Fecha: 27/09/2022
+Fecha: 06/10/2022
 Objetivo: Realizar las tablas de multiplicar
 */
 #include<iostream>
@@ -15,6 +15,7 @@ int main(int argc, char const *argv[])
     printf("¿Cuál tabla de multiplicar quieres?");
     scanf("%d",&n);
     printf ("\n");
+
     for (int i = 0; i <= 10 ; i++)
     {
         r = n * i;
