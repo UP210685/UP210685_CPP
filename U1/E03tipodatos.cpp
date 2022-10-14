@@ -25,5 +25,5 @@ int main()
     cout << "Este programa muestra los tipos de datos. \n";
     cout << "El numero entero es: " << entero << endl;
     cout << "El tamaño del entero es: " << sizeof(entero) << "bytes" << endl;
-    cout << "El numero flotante es: " << flotante << endl;
+    cout << "El numero flotante es: " << sizeof(flotante) << "bytes" << endl;
 }

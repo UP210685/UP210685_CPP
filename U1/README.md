@@ -1,36 +1,63 @@
-# **MARÍA FERNANDA AGUILAR GONZALEZ**  
+
 <center>
-BIENVENIDO A MIS PROGRAMAS DE LA UNIDAD 1
+<b>UNIDAD 1 INTRODUCCIÓN A LA PROGRAMACIÓN </b>
 </center>  
   
 ___
-<center>  
-ISC03A UP210685
-</center>  
   
 <center>
-EJERICIO 1 "HOLAMUNDO"
+<b>EJERCICIO 1 "HOLAMUNDO" </b>  
+
+*Objetivo: Mostrar un mensaje*  
+**RESULTADO**
 <div align="center">
 <img alt="Yop" src="Imagenes\holamundo.png" width= '300'>
 </div>  
-EJERCICIO 2 "PARIMPAR"  
+
+___
+<b>EJERCICIO 2 "PARIMPAR" </b>  
+
+*Objetivo: Mostrar un mensaje*  
+**RESULTADO**
 <div align="center">
 <img alt="Yop" src="Imagenes\parimpar.png" width= '300'>
 </div>
-EJERCICIO 3 "TIPODATO"
+
+___
+<b>EJERCICIO 3 "TIPODATO"</b>  
+
+*Objetivo: Mostrar los diferentes tipos de datos en c++*  
+**RESULTADO**
 <div align="center">
 <img alt="Yop" src="Imagenes\tipodatos.png" width= '300'>
 </div>  
- EJERCICIO 4 "CICLOS"
 
+___
+
+<b>EJERCICIO 4 "CICLOS" </b>  
+ 
+ *Objetivo: Manejos de if*  
+ **RESULTADO**
 <div align="center">
 <img alt="Yop" src="Imagenes\ciclos.png" width= '300'>
-</div> 
+</div>  
 
- EJERCICIO 5 "EDADES"
+___
+<b>EJERCICIO 5 "EDADES"</b>  
+*Objetivo: Definir la etapa de la persona*  
+**RESULTADOS**
 
 <div align="center">
 <img alt="Yop" src="Imagenes\edades.png" width= '300'>
+</div>  
+<div align="center">  
+<img alt="Yop" src="Imagenes\edades2.png" width= '300'>
+</div> 
+<div align="center">
+<img alt="Yop" src="Imagenes\edades3.png" width= '300'>
+</div> 
+<div align="center">
+<img alt="Yop" src="Imagenes\edades4.png" width= '300'>
 </div> 
 </center>
 
