@@ -3,9 +3,9 @@ using namespace std;
 int main(int argc, char const *argv[])
 {
     string cadena;
-    cadena = cadena + "0";
+    cadena = cadena + "U";
     cout<< cadena << endl;
-    cadena = cadena + "2";
+    cadena = cadena + "P";
     cout <<cadena<< endl;
 
 }
