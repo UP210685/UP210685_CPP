@@ -9,13 +9,16 @@ using namespace std;
 
 int main()
 {
-    int renta = 30000;
+    int renta;
     int ranual;
     int impuesto;
 
+    cout <<"¿Cuál es su renta?" << endl;
+    cin>> renta;
+
     if (renta >= 1)
     {
-        if (renta >= 10000)
+        if (renta <= 10000)
         {
             impuesto = renta * 0.05;
         }
@@ -37,6 +40,6 @@ int main()
         }
     }
     ranual = renta * 12;
-    printf ("La renta anual es %d \n", ranual);
-    printf ("El impuesto a pagar por mes es de %d \n", impuesto);
+    printf ("Su renta anual es %d \n", ranual);
+    printf ("El impuesto a pagar es de %d \n", impuesto);
 }

@@ -1,3 +1,8 @@
+/* Unidad 2. BreakContinue
+Autor: María Fernanda Aguilar González
+Fecha: --/10/2022
+Objetivo: Conocer la función y diferencias de un break y un continue
+*/
 #include <iostream>
 using namespace std;
 

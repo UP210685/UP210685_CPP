@@ -1,3 +1,8 @@
+/* Unidad 2. Switch Case
+Autor: María Fernanda Aguilar González
+Fecha: --/10/2022
+Objetivo: Uso de switch case
+*/
 #include <iostream>
 using namespace std;
 

@@ -1,3 +1,8 @@
+/* Unidad 2. PUNTAJE
+Autor: María Fernanda Aguilar González
+Fecha: 27/09/2022
+Objetivo: Evaluar empleados mediante los puntos que obtuvieron
+*/
 #include <iostream>
 using namespace std;
 

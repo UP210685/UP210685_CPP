@@ -1,25 +1,31 @@
+/* Unidad 2. Factorial
+Autor: María Fernanda Aguilar González
+Fecha: --/10/2022
+Objetivo: Calcular el factorial de un número
+*/
 #include <iostream>
 using namespace std;
 int main(int argc, char const *argv[])
 {
-    int n = 4;
-    int i=0;
-    int r;
-    int f;
+    int s = 1;
+    int contador = 1;
+    int n;
 
-
-    while (i <= n)
+    cout << "Dame un numero" << endl;
+    cin >> n;
+    if (n == 0)
     {
-        if (i == 0)
-        {
-            r=1;
-        }
-        
-        r = i*1;
-        f = f+r;
-        i = i+1;
+        cout << "El factorial es 1 \n"
+             << endl;
     }
-    printf("El resultado del factorial es %d", f);
-    
+    else
+    {
+        while (contador <= n)
+        {
+            s = s * contador;
+            contador = contador + 1;
+        }
+        cout << "El factorial es: " << s;
+    }
     return 0;
 }
