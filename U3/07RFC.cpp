@@ -1,3 +1,8 @@
+/* Unidad 3. RFC
+Autor: María Fernanda Aguilar González
+Fecha: --/10/2022
+Objetivo: Sacar el RFC de usuarios
+*/
 #include <iostream>
 using namespace std;
 string Vocal(string x, int longi)
@@ -14,13 +19,13 @@ string Vocal(string x, int longi)
 }
 int main(int argc, char const *argv[])
 {
-    string APELLIDOPAT= "JIMENEZ";
-    string APELLIDOMAT= "ESPARZA";
-    string NOMBRE= "JUAN";
+    string APELLIDOPAT= "ESPARZA";
+    string APELLIDOMAT= "LOPEZ";
+    string NOMBRE= "CARLOS";
     int longitud1 = APELLIDOPAT.length();
-    string DIA="03";
-    string MES="08";
-    string ANO="1987";
+    string DIA="17";
+    string MES="11";
+    string ANO="2022";
     string RFC;
     string voca= Vocal(APELLIDOPAT,longitud1);
     RFC = RFC + APELLIDOPAT[0] + voca[0] + APELLIDOMAT[0] + NOMBRE[0] + ANO + MES + DIA;

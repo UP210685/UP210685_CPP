@@ -15,8 +15,8 @@ double fnEcuacion1(double x) //x^2-8x+15
 
 int main()
 {
-    double x1 = 4.5;
-    double x2 = -10;
+    double x1 = 7;
+    double x2 = 20;
     double xm;
     double y1,y2;
 
@@ -40,9 +40,7 @@ int main()
         Er = abs(x2 - x1);
         i= i+1;
     }
-    
     cout << "i= " << i << " raiz= " << xm << endl;
-
     return 0;
 }
 

@@ -5,15 +5,24 @@ Objetivo: Crear una función que se pueda mandar a llamar dentro de sí misma...
 */
 #include <iostream>
 using namespace std;
-int recursiva(int n)
+string numero(int n)
 {
-    
-
-    return x
+    string respuesta;
+    if (n==7)
+    {
+        respuesta="v";
+        return respuesta;
+    }else{
+        cout<<"elige otro numero ";
+        cin >> n;
+        return numero(n);
+    }
 }
 int main(int argc, char const *argv[])
 {
     int n;
-
+    cout <<"Adivina un número del 1 al 10" << endl;
+    cin >> n;
+    numero(n);
     return 0;
 }
