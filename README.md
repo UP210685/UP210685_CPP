@@ -36,5 +36,5 @@ U4 ARCHIVOS Y ARREGLOS
 |GIT PUSH| UPLOAD TO GITHUB THE FILES WANTED, HAVING DONE BEFORE THE PROCESS TO LOAD THEM|
  </center> 
  
-<img alt="Yop" src="U1\Imagenes\certificadohuawei.png" width= '500'>
+<img alt="CERTIFICADO" src="U1\Imagenes\certificadohuawei.png" width= '500'>
 https://ilearningx.huawei.com/portal/certificates/2ab5bf8f9d4143c2a91bf2c02228c5dc
